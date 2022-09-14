@@ -5,7 +5,7 @@ Explore the subdomain of target website
 ## Installation
 
 ```
-chmod +x start.sh 
+git clone https://github.com/akhilkoradiya/TragetExplorer.git && chmod +x start.sh 
 ```
 ## How to use tool
 
