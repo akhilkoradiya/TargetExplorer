@@ -4,6 +4,8 @@ Explore the subdomain of target website
 
 ## Installation
 
+**One Line Command for installation**
+
 ```
 git clone https://github.com/akhilkoradiya/TragetExplorer.git && cd TragetExplorer && chmod +x start.sh 
 ```
