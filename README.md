@@ -1,4 +1,4 @@
-# TragetExplorer
+# TargetExplorer
 
 Explore the subdomain of target website
 
