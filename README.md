@@ -2,6 +2,8 @@
 
 Explore the subdomain of target website
 
+> GOAL - **Using TargetExplorer tool we will give the all information of target like xss,rce,ssrf,etc from target domain name(xyz.com) only**
+
 ## Installation
 
 **One Line Command for installation**
